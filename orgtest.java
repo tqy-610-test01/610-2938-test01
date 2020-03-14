@@ -2,9 +2,11 @@
 public class orgtest {
 
 	public static void main(String[] args) {
-		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
-		System.out.println("ÌÆÇÉÔÆ-610");
-                                System.out.println("ÌÆÇÉÔÆ");
+		// TODO è‡ªåŠ¨ç”Ÿæˆçš„æ–¹æ³•å­˜æ ¹
+		System.out.println("å”å·§äº‘-610");
+                                System.out.println("å”å·§äº‘");
+		System.out.println("åˆ˜å®‡");
+		
  
 	}
 
