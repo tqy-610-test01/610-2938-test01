@@ -1,10 +1,13 @@
-
+ï»¿
 public class orgtest {
 
 	public static void main(String[] args) {
-		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
-		System.out.println("ÌÆÇÉÔÆ2938");
-System.out.println("ÁõÓî");
+		
+		System.out.println("å”å·§äº‘-610");
+                                System.out.println("å”å·§äº‘");
+		System.out.println("åˆ˜å®‡");
+		System.out.println("åˆ˜å®‡");
+		
  
 	}
 
